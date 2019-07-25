@@ -4,6 +4,7 @@ This is the 1st file in this repo.
  
 # Python program to check if the input number is prime or not
 
+
 num = 407
 
 
